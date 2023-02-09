@@ -1,1 +1,1 @@
-Create a magic file 
+ My name is Betty

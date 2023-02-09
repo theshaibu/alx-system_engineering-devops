@@ -1,1 +1,1 @@
-Display current directory contents in a long format
+Betty in my first directory

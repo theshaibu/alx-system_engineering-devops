@@ -1,1 +1,1 @@
-script that writes into the file ls_cwd_content
+script that duplicates the last line of the file iacta
